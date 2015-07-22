@@ -9,7 +9,7 @@
     "**/.*",
     "tests",
     "tasks",
-    "data/*/20*.json",
+    "data",
     "contributing.md",
     "Gruntfile.js",
     "index.js",
